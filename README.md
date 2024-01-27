@@ -5,11 +5,12 @@ Overview
 "Ask the Document App" is a sophisticated question-answering (QA) application built using Streamlit, Langchain, and OpenAI's GPT models. This application enables users to upload textual documents and ask questions based on the content of these documents. It utilizes RAG to provide accurate and context-relevant answers.
 
 Features
-Document Upload: Users can upload text documents in .txt format.
+Document Upload: Users can upload text documents in .pdf format.
 Query Processing: After uploading a document, users can input queries or questions to gain insights from the uploaded document.
 Secure API Key Handling: The app requires an OpenAI API key for processing, ensuring secure and authenticated access to OpenAI's language models.
 Responsive UI: Built with Streamlit, the app provides an interactive and user-friendly interface.
 Installation and Setup
+
 To run "Ask the Doc App" on your local machine, follow these steps:
 
 Clone the Repository: Clone this repository to your local machine using git clone.
